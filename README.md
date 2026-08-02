@@ -1,2 +1,4 @@
-# text-analyzer-py-67
+# Text Analyzer Py 67
+
 Simple statistics on input text using Python.
+
